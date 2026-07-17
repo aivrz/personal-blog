@@ -17,7 +17,7 @@ id = "8bad7ff5bd7f4adb96c2681534f74176"
 # R2 存储
 [[r2_buckets]]
 binding = "STORAGE"
-bucket_name = "zydjr-storage"
+bucket_name = "zydjross-storage"
 
 # 日志配置
 [observability]
