@@ -38,7 +38,7 @@ crons = ["0 8 * * *", "0 9 * * 1"]
 [vars]
 ENVIRONMENT = "production"
 FRONTEND_URL = "https://www.zydjr.com"
-STORAGE_PUBLIC_URL = "https://storage.zydjr.com"
+STORAGE_PUBLIC_URL = "https://storageoss.zydjr.com"
 
 # Secrets（需要通过命令行或Cloudflare Dashboard设置）
 # wrangler secret put JWT_SECRET
